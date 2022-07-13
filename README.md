@@ -1,6 +1,6 @@
 # django-app-api
 
-#Run all commands through Docker Compose
+# Run all commands through Docker Compose
 - docker-compose run --rm app sh -c "python manage.py collectstatic"
 
 # Build proyect and create image of docker
